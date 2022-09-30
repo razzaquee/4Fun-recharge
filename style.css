@@ -1,0 +1,25 @@
+body{
+    width: 1000px;
+    background-color: rgb(39, 36, 36);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+.carosel{
+    width: 800px;
+    margin: 0 auto;
+}
+.xyz{
+    border: 2px solid yellow;
+}
+.asd h1 a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+
+}
+.asd h4{
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
